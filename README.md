@@ -13,7 +13,7 @@ The primary objective of this project was to implement a system that could dynam
 - **PHP**: The script was written in PHP, utilizing the MySQLi extension for database interactions.
 - **MySQL**: The database used for storing and retrieving data related to food orders and merchant visibility.
 - **Kafka**: For real-time event publishing and handling, ensuring that changes in merchant visibility are communicated efficiently.
-- **Slack**: For sending automated messages and updates to a designated channel, providing real-time insights into the system's operations.
+- **Chat**: For sending automated messages and updates to a designated Slack/GoogleChat/Teams group, providing real-time insights into the system's operations.
 
 ## Key Features
 
