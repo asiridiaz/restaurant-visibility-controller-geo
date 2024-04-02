@@ -1,4 +1,4 @@
-# Geo based merchant visibility controller for food delivery service
+# Geo based merchant visibility controller for food delivery service - Microservice
 
 ## Overview
 
